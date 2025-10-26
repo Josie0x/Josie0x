@@ -1,7 +1,7 @@
 # Josie Charles 🫆
  SOC Analyst | Threat Detector
   
-**I turn logs into stories, alerts into action, and threats into lessons learned.**
+**I turn logs into stories, alerts into action, and threats into lessons learned 📝.**
 
 
 ---
