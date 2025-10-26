@@ -1,7 +1,6 @@
 # Josie Charles 🫆
  SOC Analyst | Threat Detector
-
-Welcome to my GitHub  
+  
 **I turn logs into stories, alerts into action, and threats into lessons learned.**
 
 
