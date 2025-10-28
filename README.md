@@ -11,7 +11,7 @@
 - **Splunk Core Certified User** ✅  
 - NDG Linux Essentials  
 - Cisco Network Essentials  
-🖥️ Leveling up with **TryHackMe labs** and custom **homelabs**, diving into **Splunk dashboards, SIEM analytics, and Active Directory exploits**.  
+🖥️ Leveling up with **TryHackMe,HackTheBox,LetsDefend ** and custom **homelabs**, diving into **Splunk dashboards, SIEM analytics, and Active Directory exploits**.  
 
 ---
 ## 🧭 TryHackMe [Labs](https://github.com/Josie0x/-SOC-Lab-Experience-) & Hands-On Simulation
