@@ -6,12 +6,18 @@
 
 ---
 
-## 🐾 Path to the SOC
+## 🐾 Path to the SOC                                                
 - **CompTIA CySA+**  
-- **Splunk Core Certified User** ✅  
+- **Splunk Core Certified User**
+- **lets Defend-SOC Analyst Learning Path Certification**   
 - NDG Linux Essentials  
-- Cisco Network Essentials  
-🖥️ Leveling up with **TryHackMe,HackTheBox,LetsDefend ** and custom **homelabs**, diving into **Splunk dashboards, SIEM analytics, and Active Directory exploits**.  
+- Cisco Network Essentials
+
+  <p align="center">
+  <img width="200" height="200" alt="75c246b6-b53b-41b3-a6c7-b43e16c63836 (1)" src="https://github.com/user-attachments/assets/01b2cdf3-a565-4722-ac48-22cb4656f9dd" />
+  <img width="200" height="200" alt="Screenshot 2025-12-02 at 11 01 23 AM" src="https://github.com/user-attachments/assets/54ca9c26-5e42-4466-a906-9c549e4f025f" />
+  <img width="200" height="200" alt="Screenshot 2025-12-02 at 11 11 41 AM" src="https://github.com/user-attachments/assets/07e03a38-eaea-485f-9a01-34795586ad84" />
+
 
 ---
 ## 🧭 TryHackMe [Labs](https://github.com/Josie0x/-SOC-Lab-Experience-) & Hands-On Simulation
